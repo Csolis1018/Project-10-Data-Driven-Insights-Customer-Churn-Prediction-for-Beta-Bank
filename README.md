@@ -65,7 +65,7 @@ Measured both F1 score and AUC-ROC to assess classification quality.
 
 Compared both metrics to gain a comprehensive understanding of model performance.
 
-#vResults
+# Results
 
 The analysis demonstrates that:
 
